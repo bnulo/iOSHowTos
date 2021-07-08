@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-[#1 How to change color of navigation bar is SwiftUI?](https://github.com/bnulo/ioshowtos#1-how-to-change-color-of-navigation-bar-is-swiftui?)
+[#1 How to change color of navigation bar in SwiftUI?](https://github.com/bnulo/ioshowtos#how-to-change-color-of-navigation-bar-in-swiftui?)
 
 
 class MentionDetectorTests: XCTestCase {
@@ -229,7 +229,7 @@ class MentionDetectorTests: XCTestCase {
         XCTAssertEqual(mentions, ["johnsundell"])
     }
 }
-##1 How to change color of navigation bar is SwiftUI?
+## How to change color of navigation bar in SwiftUI?
 
 ```swift
 // BEFORE:
