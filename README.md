@@ -81,7 +81,7 @@ extension View {
 import SwiftUI
 
 @main
-struct SwiftVideosApp: App {
+struct ExampleApp: App {
     init() {
         let backgroundColor = UIColor.black
         let tintColor = UIColor.systemPink
