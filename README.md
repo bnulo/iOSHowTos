@@ -228,7 +228,7 @@ class MentionDetectorTests: XCTestCase {
         XCTAssertEqual(mentions, ["johnsundell"])
     }
 }
-## #1 Making async tests faster and more stable
+## [#1 How to change color of navigation bar is SwiftUI?]
 
 ```swift
 // BEFORE:
